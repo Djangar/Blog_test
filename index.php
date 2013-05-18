@@ -1,4 +1,4 @@
 <?
 phpinfo();
-echo "Привет!!!"
+echo "edit user gitlog"
 ?>
